@@ -70,6 +70,7 @@ public class DataSourceUtils {
 
 ### 9. Create PriceUtil Utility Class
 Create a class named `PriceUtil` in the `utils` package. This class will be used to calculate the total amount for the shopping cart and orders.
+
 在开发功能模块之前，需要先进行项目开发环境的搭建工作，项目开发环境的搭建包括以下7个步骤。
 
 确定项目开发环境
